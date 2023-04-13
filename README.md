@@ -12,6 +12,12 @@ If you are a good catcher and are willing to accept a challenge from another onl
 
 This game also supports web3 features including in-game store to buy coins, unlock skin, powers, rewards and many more on BTTC chain.
 
+### Features
+* Classic addictive gameplay - Catch the birds before they shit on you
+* Metaverse multiplayer support with voice chat
+* In-game store to buy coins, exchange tokens, unlock skins as NFT and more
+* Get free ingame ERC20 tokens and utilize in game
+
 ### Project Test Instructions:
 
 * Login to Metamask from Desktop or Laptop
