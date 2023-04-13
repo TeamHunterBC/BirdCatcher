@@ -20,6 +20,12 @@ This game also supports web3 features including in-game store to buy coins, unlo
 * Login into game from Desktop or Laptop
 * Start your adventure
 
+### Contract Address:
+
+https://testnet.bttcscan.com/address/0x2D52F9AF264A1A24f3E4a0F6d82866A1e442f550
+https://testnet.bttcscan.com/token/0x7Dd8658Ff573fca6eF3e98B541B992CB2D728B8E
+
+
 
 ![Bird Catcher Game](/Images/sc1.jpg)
 ![Bird Catcher Game](/Images/sc2.jpg)
