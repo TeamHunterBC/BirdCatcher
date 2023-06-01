@@ -21,15 +21,15 @@ This game also supports web3 features including in-game store to buy coins, unlo
 ### Project Test Instructions:
 
 * Login to Metamask from Desktop or Laptop
-* Add Bittorrent Testnet in Metamask
-* Make sure you have enough BTTC Testnet coins in account
+* Add Bittorrent Mainnet in Metamask
+* Make sure you have enough BTTC Mainnet coins in account
 * Login into game from Desktop or Laptop
 * Start your adventure
 
 ### Contract Address:
 
-https://testnet.bttcscan.com/address/0x2D52F9AF264A1A24f3E4a0F6d82866A1e442f550
-https://testnet.bttcscan.com/token/0x7Dd8658Ff573fca6eF3e98B541B992CB2D728B8E
+* https://bttcscan.com/address/0x664c675e391cce4eeb30d157952886551c8fed5e
+* https://bttcscan.com/token/0x2892498bff560ec2ee3acd490b5a7118d8f7be93
 
 
 
